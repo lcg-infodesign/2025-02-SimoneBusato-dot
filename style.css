@@ -35,7 +35,7 @@ hr{
   height: fit-content;
   background-color: rgba(255, 255, 255, 0.052);
   backdrop-filter: blur(10px);
-  padding: 50px 0  50px 50px ;
+  padding: 80px 0  80px 100px ;
   border-radius: 20px;
   border-top: 1px solid rgba(255, 255, 255, 0.4);
   border-left: 1px solid rgba(255, 255, 255, 0.2);
